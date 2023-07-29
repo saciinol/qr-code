@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/saciinol/qr-code)
-- Live Site URL: [Add live site URL here](https://saciinol.github.io/qr-code/)
+- Solution URL: [https://github.com/saciinol/qr-code]
+- Live Site URL: [https://saciinol.github.io/qr-code/]
 
 ## My process
 
@@ -34,4 +34,4 @@ idk
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/saciinol)
+- Frontend Mentor - [@saciinol](https://www.frontendmentor.io/profile/saciinol)
